@@ -4,8 +4,6 @@
 * This is encodeUTF16.c file in program 1.
 *
 * Encode(UTF32 to UTF16).
-*
-* Due Feb 6, 2019
 */
 
 #include <stdio.h>
